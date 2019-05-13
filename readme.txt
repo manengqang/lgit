@@ -1,3 +1,3 @@
 readme text
-git is version control system
-git is a free software
+git is a distrubuted version control system
+git is free software distributed under the gpl
